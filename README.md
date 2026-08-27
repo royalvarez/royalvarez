@@ -1,16 +1,19 @@
-## Hi there 👋
+## Howdy 🤠
 
-<!--
-**royalvarez/royalvarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am self-studying programming in order to become a backend developer.
 
-Here are some ideas to get you started:
+- 📫 Contact me at: Hello@royalvarez.dev
+- 🔭 Currently progressing through the [Boot.dev platform](https://www.boot.dev/paths/backend?tech=python-golang).
+- 📖 Learning C and memory management, and brushing up on CLI foundations.
+- 🧑 He/Him
+- 💡 A guinea pig skeleton has 258 bones.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages 💻
+
+- Python
+
+### Tools 🧰
+
+- Git
+- WSL
+- Visual Studio Code
